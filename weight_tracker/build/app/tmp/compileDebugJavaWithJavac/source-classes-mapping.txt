@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-za/co/weight/tracker/weight_tracker/BuildConfig.java
- za.co.weight.tracker.weight_tracker.BuildConfig
